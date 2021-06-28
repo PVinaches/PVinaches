@@ -21,7 +21,7 @@ I am **Paloma Vinaches**, a Spanish :es: **web developer** based in Luxembourg :
     <img src="images/bootstrap.png" width="27" alt="Bootstrap" />
     <img src="images/flask.png" width="30" alt="Flask" />
     <img src="images/django.png" width="60" alt="Django" />
-    <img src="images/sqlite.png" width="55" alt="SQLite" />
+    <img src="images/sqlite.png" width="30" alt="SQLite" />
     <img src="images/nodejs.png" width="120" alt="NodeJs" />
 </div>
 
