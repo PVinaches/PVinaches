@@ -8,7 +8,7 @@
 I am **Paloma Vinaches**, a Spanish :es: **web developer** based in Luxembourg :luxembourg:
 
 <div style="text-align: justify">
-    I have been studying programming for the last two years. I started with Python and Matlab for work reasons. Still, after finishing <a href="https://cs50.harvard.edu/x/2020/">CS50x</a> in October 2020, I decided to become a web developer. Since June 2021, I am studying and practising full time.
+    I have been studying programming for the last two years. I started with Python and Matlab for work reasons. Still, after finishing <a href="https://cs50.harvard.edu/x/2020/">CS50x</a> in October 2020, I decided to become a web developer. Since 2021, I am studying and practising full time.
 </div>
 
 ### Languages and Tools :computer:
@@ -22,12 +22,14 @@ I am **Paloma Vinaches**, a Spanish :es: **web developer** based in Luxembourg :
     <img src="images/flask.png" width="30" alt="Flask" />
     <img src="images/django.png" width="60" alt="Django" />
     <img src="images/sqlite.png" width="30" alt="SQLite" />
+    <img src="images/postgresql.svg" width="30" alt="PostgreSQL" />
     <img src="images/nodejs.png" width="120" alt="NodeJs" />
 </div>
 
 ### What I am focusing on :mag:
 
-* [CS50w](https://cs50.harvard.edu/web/2020/): project Network
+* [CS50w](https://cs50.harvard.edu/web/2020/): submitted projects Network and Capstone.
+* [Introduction to Networking](https://www.edx.org/course/introduction-to-networking): started July 21st 2021.
 * [Discover platform](https://rocketseat.com.br/discover): revision, practice and nodejs
 * [AWS Developer Series](https://www.edx.org/xseries/aws-developer-series?index=product&queryID=824783085d1f78285f594e180b37252c&position=1): first course on building
 
