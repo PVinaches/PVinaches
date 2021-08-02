@@ -5,7 +5,7 @@
 
 ### About me :woman_technologist:
 
-I am **Paloma Vinaches**, a Spanish :es: **web developer** based in Luxembourg :luxembourg:
+I am **Paloma Vinaches**, a Spanish **web developer** based in Luxembourg.
 
 <div style="text-align: justify">
     I have been studying programming for the last two years. I started with Python and Matlab for work reasons. Still, after finishing <a href="https://cs50.harvard.edu/x/2020/">CS50x</a> in October 2020, I decided to become a web developer. Since 2021, I am studying and practising full time.
@@ -28,15 +28,16 @@ I am **Paloma Vinaches**, a Spanish :es: **web developer** based in Luxembourg :
 
 ### What I am focusing on :mag:
 
-* [Introduction to Networking](https://www.edx.org/course/introduction-to-networking): started July 21st 2021.
-* [React: The complete guide](https://www.udemy.com/course/react-the-complete-guide/): started July 29th 2021.
+* [Introduction to Networking](https://www.edx.org/course/introduction-to-networking): network fundamentals
+* [React: The complete guide](https://www.udemy.com/course/react-the-complete-guide/): react complete course (basics, advanced, redux)
 * [Discover platform](https://rocketseat.com.br/discover): revision, practice and nodejs
 * [AWS Developer Series](https://www.edx.org/xseries/aws-developer-series?index=product&queryID=824783085d1f78285f594e180b37252c&position=1): first course on building
 
 ### Verification links to certificates and credentials :heavy_check_mark:
 
-* [CS50w](https://cs50.harvard.edu/web/2020/): waiting for EDX certified diploma.
-* [CS50 - edx Harvard](https://courses.edx.org/certificates/8ca55a994a1849e3b3df0535d1b9583e): issued October 2020
+* [Professional certificate in Computer Science for Science](https://credentials.edx.org/credentials/54070da93e7c42f68162fed8db6d9df7/): issued July 2021
+    * [CS50w](https://courses.edx.org/certificates/ca69e19dcc3f468688b544f78763bedd): issued July 2021
+    * [CS50 - edx Harvard](https://courses.edx.org/certificates/8ca55a994a1849e3b3df0535d1b9583e): issued October 2020
 * [Composição de programas em Python - UFMG](https://moodle.dcc.ufmg.br/mod/simplecertificate/verify.php?code=5f1d823c-b160-4a9d-b911-3290ac160002): issued July 2020
 * [Matlab - coursera Vanderbilt university](https://coursera.org/account/accomplishments/verify/QMD76GCUJULA): issued March 2020
 
