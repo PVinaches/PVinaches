@@ -31,10 +31,11 @@ I am **Paloma Vinaches**, a Spanish **web developer** based in Luxembourg.
 * [Introduction to Networking](https://www.edx.org/course/introduction-to-networking): network fundamentals
 * [React: The complete guide](https://www.udemy.com/course/react-the-complete-guide/): react complete course (basics, advanced, redux)
 * [Discover platform](https://rocketseat.com.br/discover): revision, practice and nodejs
-* [AWS Developer Series](https://www.edx.org/xseries/aws-developer-series?index=product&queryID=824783085d1f78285f594e180b37252c&position=1): first course on building
+* [AWS Developer Series](https://www.edx.org/xseries/aws-developer-series?index=product&queryID=824783085d1f78285f594e180b37252c&position=1): second course on deploying
 
 ### Verification links to certificates and credentials :heavy_check_mark:
 
+* [AWS developer: Building on AWS](https://courses.edx.org/certificates/f78f83a61efc45ea824054e79ff517c6): issued August 2021
 * [Professional certificate in Computer Science for Science](https://credentials.edx.org/credentials/54070da93e7c42f68162fed8db6d9df7/): issued July 2021
     * [CS50w](https://courses.edx.org/certificates/ca69e19dcc3f468688b544f78763bedd): issued July 2021
     * [CS50 - edx Harvard](https://courses.edx.org/certificates/8ca55a994a1849e3b3df0535d1b9583e): issued October 2020
