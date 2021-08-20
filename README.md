@@ -29,6 +29,7 @@ I am **Paloma Vinaches**, a Spanish **web developer** based in Luxembourg.
 ### What I am focusing on :mag:
 
 * [React: The complete guide](https://www.udemy.com/course/react-the-complete-guide/): react complete course (basics, advanced, redux)
+* [Complete SQL and Databases bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/): databases fundamentals and SQL databases.
 * [Discover platform](https://rocketseat.com.br/discover): revision, practice and nodejs
 * [AWS Developer Series](https://www.edx.org/xseries/aws-developer-series?index=product&queryID=824783085d1f78285f594e180b37252c&position=1): second course on deploying
 
