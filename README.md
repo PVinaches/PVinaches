@@ -8,7 +8,7 @@
 I am **Paloma Vinaches**, a Spanish **web developer** based in Luxembourg.
 
 <div style="text-align: justify">
-    I have been studying programming for the last two years. I started with Python and Matlab for work reasons. Still, after finishing <a href="https://cs50.harvard.edu/x/2020/">CS50x</a> in October 2020, I decided to become a web developer. Since 2021, I am studying and practising full time.
+    I have been studying programming for the last two years. I started with Python and Matlab for work reasons. Still, after finishing <a href="https://cs50.harvard.edu/x/2020/">CS50x</a> in October 2020, I decided to become a web developer.
 </div>
 
 ### Languages and Tools :computer:
@@ -23,14 +23,13 @@ I am **Paloma Vinaches**, a Spanish **web developer** based in Luxembourg.
     <img src="images/django.png" width="60" alt="Django" />
     <img src="images/sqlite.png" width="30" alt="SQLite" />
     <img src="images/postgresql.svg" width="30" alt="PostgreSQL" />
-    <img src="images/nodejs.png" width="120" alt="NodeJs" />
+    <!-- <img src="images/nodejs.png" width="120" alt="NodeJs" /> -->
 </div>
 
 ### What I am focusing on :mag:
 
 * [React: The complete guide](https://www.udemy.com/course/react-the-complete-guide/): react complete course (basics, advanced, redux)
 * [Complete SQL and Databases bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/): databases fundamentals and SQL databases.
-* [Discover platform](https://rocketseat.com.br/discover): revision, practice and nodejs
 * [AWS Developer Series](https://www.edx.org/xseries/aws-developer-series?index=product&queryID=824783085d1f78285f594e180b37252c&position=1): second course on deploying
 
 ### Verification links to certificates and credentials :heavy_check_mark:
