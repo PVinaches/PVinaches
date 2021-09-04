@@ -24,6 +24,8 @@ I am **Paloma Vinaches**, a Spanish **web developer** based in Luxembourg.
     <img src="images/sqlite.png" width="30" alt="SQLite" />
     <img src="images/postgresql.svg" width="30" alt="PostgreSQL" />
     <!-- <img src="images/nodejs.png" width="120" alt="NodeJs" /> -->
+    <!-- <img src="images/reactjs.png" width="120" alt="ReactJs" /> -->
+    
 </div>
 
 ### What I am focusing on :mag:
