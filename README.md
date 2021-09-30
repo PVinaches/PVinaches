@@ -37,10 +37,11 @@ I am **Paloma Vinaches**, a Spanish **web developer** based in Luxembourg.
 
 ### Verification links to certificates and credentials :heavy_check_mark:
 
-* [Introduction to Networking](https://courses.edx.org/certificates/297dd2c5d66e447393352369d10144b7): issued August 2021
 * [AWS Developer Series](): finished 2/3.
     * [AWS developer: Deploying on AWS](https://courses.edx.org/certificates/2e15f734c861461fb8bc79c012b56fcb): issued September 2021
     * [AWS developer: Building on AWS](https://courses.edx.org/certificates/f78f83a61efc45ea824054e79ff517c6): issued August 2021
+* [Angular Essentials](https://udemy-certificate.s3.amazonaws.com/pdf/UC-e649e252-95d5-4677-85b3-a0e87732dc6e.pdf): issued September 2021
+* [Introduction to Networking](https://courses.edx.org/certificates/297dd2c5d66e447393352369d10144b7): issued August 2021
 * [Professional certificate in Computer Science for Science](https://credentials.edx.org/credentials/54070da93e7c42f68162fed8db6d9df7/): issued July 2021
     * [CS50w](https://courses.edx.org/certificates/ca69e19dcc3f468688b544f78763bedd): issued July 2021
     * [CS50 - edx Harvard](https://courses.edx.org/certificates/8ca55a994a1849e3b3df0535d1b9583e): issued October 2020
