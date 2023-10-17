@@ -5,10 +5,10 @@
 
 ### About me :woman_technologist:
 
-I am **Paloma Vinaches**, a Spanish **web developer** based in Luxembourg.
+I am **Paloma Vinaches**, a Spanish **software developer** based in Luxembourg.
 
 <div style="text-align: justify">
-    I have been studying programming for the last two years. I started with Python and Matlab for work reasons. Still, after finishing <a href="https://cs50.harvard.edu/x/2020/">CS50x</a> in October 2020, I decided to become a web developer.
+    I have been studying programming since 2019. I started with Python and Matlab for work reasons. Still, after finishing <a href="https://cs50.harvard.edu/x/2020/">CS50x</a> in October 2020, I decided to become a software developer. Since October 2021 I am a UI/API developer in ANote Music Sarl, contributing to the development of the platform and website, both for desktop, responsiveness and app.
 </div>
 
 ### Languages and Tools :computer:
@@ -30,10 +30,10 @@ I am **Paloma Vinaches**, a Spanish **web developer** based in Luxembourg.
 
 ### What I am focusing on :mag:
 
-* [Engenharia de Software Moderna - UFMG](http://www.engsoftmoderna.dcc.ufmg.br/): agile methodologies, design and architecture, tests and refactoring
+* [Engenharia de Software Moderna - [Engenharia de Software Moderna - UFMG](http://www.engsoftmoderna.dcc.ufmg.br/): agile methodologies, design and architecture, tests and refactoring/): agile methodologies, design and architecture, tests and refactoring
 * [React: The complete guide](https://www.udemy.com/course/react-the-complete-guide/): react complete course (basics, advanced, redux)
-* [Complete SQL and Databases bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/): databases fundamentals and SQL databases
-* [AWS Developer Series](https://www.edx.org/xseries/aws-developer-series?index=product&queryID=824783085d1f78285f594e180b37252c&position=1): last course on optimizing
+* [Complete SQL and Databases bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/): databases fundamentals and SQL databases 
+
 
 ### Verification links to certificates and credentials :heavy_check_mark:
 
