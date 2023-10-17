@@ -30,7 +30,7 @@ I am **Paloma Vinaches**, a Spanish **software developer** based in Luxembourg.
 
 ### What I am focusing on :mag:
 
-* [Engenharia de Software Moderna - [Engenharia de Software Moderna - UFMG](http://www.engsoftmoderna.dcc.ufmg.br/): agile methodologies, design and architecture, tests and refactoring/): agile methodologies, design and architecture, tests and refactoring
+* [Engenharia de Software Moderna - UFMG](http://www.engsoftmoderna.dcc.ufmg.br/): agile methodologies, design and architecture, tests and refactoring
 * [React: The complete guide](https://www.udemy.com/course/react-the-complete-guide/): react complete course (basics, advanced, redux)
 * [Complete SQL and Databases bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/): databases fundamentals and SQL databases 
 
