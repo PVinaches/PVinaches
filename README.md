@@ -23,7 +23,7 @@ I am **Paloma Vinaches**, a Spanish **software developer** based in Luxembourg.
     <img src="images/django.png" width="60" alt="Django" />
     <img src="images/sqlite.png" width="30" alt="SQLite" />
     <img src="images/postgresql.svg" width="30" alt="PostgreSQL" />
-    <img src="images/angular.png" width="48" alt="Angular" />
+    <img src="images/angular.png" width="32" alt="Angular" />
     <img src="images/hubspot.png" width="32" alt="Hubspot" />
     <!-- <img src="images/nodejs.png" width="120" alt="NodeJs" /> -->
     <!-- <img src="images/reactjs.png" width="120" alt="ReactJs" /> -->
