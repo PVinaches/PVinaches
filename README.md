@@ -5,7 +5,7 @@
 
 ### About me :woman_technologist:
 
-I am **Paloma Vinaches**, a Spanish **software developer** based in Luxembourg.
+I am **Paloma Vinaches**, a Spanish **software developer**.
 
 <div style="text-align: justify">
     I have been studying programming since 2019. I started with Python and Matlab for work reasons. Still, after finishing <a href="https://cs50.harvard.edu/x/2020/">CS50x</a> in October 2020, I decided to become a software engineer. Since October 2021 I work as software developer in ANote Music Sarl, contributing to the development of the platform and website, both for desktop, responsiveness and app.
